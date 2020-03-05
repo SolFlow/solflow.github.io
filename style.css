@@ -4,6 +4,26 @@
   padding: 0;
 }
 
+a {
+	text-decoration: none;
+	color: #FF950A;
+}
+
+a :hover {
+	color: #ffffff;
+	transition: color 0.3s ease-in-out;
+}
+
+.link:hover{
+	color: #ffffff;
+	transition: color 0.3s ease-in-out;
+}
+
+strong {
+	color: #FF950A;
+	font-weight: 800;
+}
+
 p {
 	color: #fff;
 	font-size: 18pt;
